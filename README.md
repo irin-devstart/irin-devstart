@@ -30,7 +30,7 @@ An experienced Frontend Developer with 6 years of expertise in creating reusable
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect!
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irin%20Saputra-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irin-saputra/)
-- Email: [![Email](https://img.shields.io/badge/Email-irin.devstart@gmail.com-red?logo=gmail&logoColor=white)](mailto:irin.devstart@gmail.com)
+<a href="https://www.linkedin.com/in/irin-saputra/"><img src="https://img.shields.io/badge/LinkedIn-Irin%20Saputra-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:irin.devstart@gmail.com"><img src="[https://img.shields.io/twitch/status/Theo?label=Twitch](https://img.shields.io/badge/Email-irin.devstart@gmail.com-red?logo=gmail&logoColor=white)" alt="Email"></a>
 
 Thanks for visiting my profile! 😄
