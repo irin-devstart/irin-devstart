@@ -31,6 +31,6 @@ An experienced Frontend Developer with 6 years of expertise in creating reusable
 
 ## 🤝 Let's Connect!
 <a href="https://www.linkedin.com/in/irin-saputra/"><img src="https://img.shields.io/badge/LinkedIn-Irin%20Saputra-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:irin.devstart@gmail.com"><img src="[https://img.shields.io/twitch/status/Theo?label=Twitch](https://img.shields.io/badge/Email-irin.devstart@gmail.com-red?logo=gmail&logoColor=white)" alt="Email"></a>
+<a href="mailto:irin.devstart@gmail.com"><img src="https://img.shields.io/badge/Email-irin.devstart@gmail.com-red?logo=gmail&logoColor=white" alt="Email"></a>
 
 Thanks for visiting my profile! 😄
