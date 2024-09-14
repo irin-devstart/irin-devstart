@@ -22,8 +22,4 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 📦 My Library
 - Check out my npm package: [query-debounce](https://www.npmjs.com/package/query-debounce)
 
-## 🤝 Let's Connect!
-<a href="https://www.linkedin.com/in/irin-saputra/"><img src="https://img.shields.io/badge/LinkedIn-Irin%20Saputra-white?logo=linkedin&logoColor=gray" alt="LinkedIn"></a>
-<a href="mailto:irin.devstart@gmail.com"><img src="https://img.shields.io/badge/Email-irin.devstart@gmail.com-white?logo=gmail&logoColor=gray" alt="Email"></a>
-
 Thanks for visiting my profile! 😄
