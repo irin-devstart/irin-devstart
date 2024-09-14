@@ -26,9 +26,6 @@ An experienced Frontend Developer with 6 years of expertise in creating reusable
 ## 📦 My Library
 - Check out my npm package: [query-debounce](https://www.npmjs.com/package/query-debounce)
 
-## 📈 My GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=irin-devstart&show_icons=true&theme=radical)
-
 ## 🤝 Let's Connect!
 <a href="https://www.linkedin.com/in/irin-saputra/"><img src="https://img.shields.io/badge/LinkedIn-Irin%20Saputra-white?logo=linkedin&logoColor=gray" alt="LinkedIn"></a>
 <a href="mailto:irin.devstart@gmail.com"><img src="https://img.shields.io/badge/Email-irin.devstart@gmail.com-white?logo=gmail&logoColor=gray" alt="Email"></a>
