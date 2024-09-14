@@ -8,10 +8,6 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🎨 I specialize in designing responsive and accessible websites to ensure a seamless user experience across all devices.
 - 🧑‍🏫 I enjoy mentoring junior developers and sharing knowledge about best practices in frontend development.
 
-## 🎨 Frontend Developer
-
-An experienced Frontend Developer with 6 years of expertise in creating reusable components and animations to enhance user experience on websites. My focus extends beyond visual aspects to improving website accessibility, ensuring that all users can access it easily. I am also skilled in designing responsive websites that function well across various devices. Additionally, I have experience in code optimization to enhance overall website performance.
-
 ## 🛠️ Tools & Technologies
 - **Frontend:** `React`, `Next.js`, `TypeScript`, `Material UI`, `Tailwind CSS`
 - **Backend:** `Node.js`, `Express.js`, `Fastify`
