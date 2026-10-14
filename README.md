@@ -8,7 +8,7 @@ Results-driven Senior Frontend Developer specializing in architecting, building,
 
 ### 💻 Technical Stack & Skills
 
-- **Frontend & Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3, React, Next.js, React Router, Micro-frontends
+- **Frontend & Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3, React, Next.js, React Router
 - **State & Data Handling:** Redux Toolkit, TanStack Query (React Query), Context API, RESTful APIs, GraphQL
 - **UI & Styling:** Tailwind CSS, Material-UI (MUI), Styled Components, Web Accessibility (WCAG), Design Systems
 - **Testing & Quality:** Jest, Cypress, React Testing Library, Unit & E2E Testing, Refactoring, Debugging
