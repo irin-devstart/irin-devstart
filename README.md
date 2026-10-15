@@ -12,7 +12,7 @@ Results-driven Senior Frontend Developer specializing in architecting, building,
 - **State & Data Handling:** Redux Toolkit, TanStack Query (React Query), Context API, RESTful APIs, GraphQL
 - **UI & Styling:** Tailwind CSS, Material-UI (MUI), Styled Components, Web Accessibility (WCAG), Design Systems
 - **Testing & Quality:** Jest, Cypress, React Testing Library, Unit & E2E Testing, Refactoring, Debugging
-- **DevOps & Tooling:** Git, GitHub Actions, CI/CD Pipelines, Postman, Figma, Storybook, NPM Package Development
+- **Tools & Collaboration:** Git, GitHub, Postman, Figma, Storybook, NPM Package Development
 
 ---
 
